@@ -1,0 +1,86 @@
+_repo: The-Lock-and-Key-Library-The-Most-Interesting-Stories-of-All-Nations-Real-Life_2031
+contributor:
+  contributors:
+  - agent_name: Woodward, P. H. (Patrick Henry)
+    alias: Woodward, Patrick Henry
+    birthdate: 1833
+    deathdate: 1917
+    gutenberg_agent_id: '5835'
+    url: http://www.gutenberg.org/2009/agents/5835
+  - agent_name: Lang, Andrew
+    alias: Lang, Walter Andrew
+    birthdate: 1844
+    deathdate: 1912
+    gutenberg_agent_id: '79'
+    url: http://www.gutenberg.org/2009/agents/79
+    wikipedia: http://en.wikipedia.org/wiki/Andrew_Lang
+  - agent_name: Train, Arthur Cheney
+    birthdate: 1875
+    deathdate: 1945
+    gutenberg_agent_id: '1756'
+    url: http://www.gutenberg.org/2009/agents/1756
+    wikipedia: http://en.wikipedia.org/wiki/Arthur_Cheney_Train
+  - agent_name: Robert-Houdin, Jean-Eugène
+    aliases:
+    - Robert-Houdin, Jean-Eugene
+    - Robert-Houdin
+    birthdate: 1805
+    deathdate: 1871
+    gutenberg_agent_id: '41927'
+    url: http://www.gutenberg.org/2009/agents/41927
+    wikipedia: http://en.wikipedia.org/wiki/Jean_Eugène_Robert-Houdin
+  - agent_name: Carrington, Hereward
+    alias: Carington, Hereward
+    birthdate: 1880
+    deathdate: 1959
+    gutenberg_agent_id: '5832'
+    url: http://www.gutenberg.org/2009/agents/5832
+    wikipedia: http://en.wikipedia.org/wiki/Hereward_Carrington
+  - agent_name: Abbott, David P. (David Phelps)
+    alias: Abbott, David Phelps
+    birthdate: 1863
+    deathdate: &id001 1934
+    gutenberg_agent_id: '5833'
+    url: http://www.gutenberg.org/2009/agents/5833
+  creator:
+    editor:
+      agent_name: Hawthorne, Julian
+      birthdate: 1846
+      deathdate: *id001
+      gutenberg_agent_id: '675'
+      url: http://www.gutenberg.org/2009/agents/675
+      wikipedia: http://en.wikipedia.org/wiki/Julian_Hawthorne
+description: "Part 1: Detective stories from real life\r\nPart 2: True stories of\
+  \ modern magic"
+gutenberg_bookshelf: Short Stories
+gutenberg_issued: '2000-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2031'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcsh 'Detective and mystery stories'
+- !lcsh 'Parapsychology'
+- !lcc 'PN'
+tableOfContents: "P. H. Woodward\r\n      Adventures in the Secret Service of the\
+  \ Post-Office Department\r\n      An Erring Shepherd\r\n      An Aspirant for Congress\r\
+  \n      The Fortune of Seth Savage\r\n      A Wish Unexpectedly Gratified\r\n  \
+  \    An Old Game Revived\r\n      A Formidable Weapon\r\n    Andrew Lang\r\n   \
+  \   Saint-Germain the Deathless\r\n      The Man in the Iron Mask\r\n        The\
+  \ Legend\r\n        The Valet's History\r\n        The Valet's Master\r\n      \
+  \  Original Papers in the Case of Roux De Marsilly\r\n    M. Robert-Houdin [After\
+  \ whom Harry Houdini named himself]\r\n      A Conjurer's Confessions\r\n      Self-Training\r\
+  \n      \"Second Sight\"\r\n      The Magician Who Became an Ambassador\r\n    \
+  \  Facing the Arab's Pistol\r\n    David P. Abbott\r\n      Fraudulent Spiritualism\
+  \ Unveiled\r\n      A Doctor of the Occult\r\n      How the Tricks Succeeded\r\n\
+  \      The Name of the Dead\r\n      Mind Reading in Public\r\n      Some Famous\
+  \ Exposures\r\n    Hereward Carrington\r\n      More Tricks of \"Spiritualism\"\r\
+  \n      \"Matter through Matter\"\r\n      Deception Explained by the Science of\
+  \ Psychology\r\n    Anonymous\r\n      How Spirits Materialize"
+title: 'The Lock and Key Library: The Most Interesting Stories of All Nations: Real
+  Life'
+url: http://www.gutenberg.org/ebooks/2031
