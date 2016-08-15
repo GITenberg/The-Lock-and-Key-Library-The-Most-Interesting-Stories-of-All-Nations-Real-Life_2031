@@ -1,4 +1,5 @@
 _repo: The-Lock-and-Key-Library-The-Most-Interesting-Stories-of-All-Nations-Real-Life_2031
+_version: 0.1.0
 contributor:
   contributors:
   - agent_name: Woodward, P. H. (Patrick Henry)
@@ -39,14 +40,14 @@ contributor:
   - agent_name: Abbott, David P. (David Phelps)
     alias: Abbott, David Phelps
     birthdate: 1863
-    deathdate: &id001 1934
+    deathdate: 1934
     gutenberg_agent_id: '5833'
     url: http://www.gutenberg.org/2009/agents/5833
   creator:
     editor:
       agent_name: Hawthorne, Julian
       birthdate: 1846
-      deathdate: *id001
+      deathdate: 1934
       gutenberg_agent_id: '675'
       url: http://www.gutenberg.org/2009/agents/675
       wikipedia: http://en.wikipedia.org/wiki/Julian_Hawthorne
