@@ -1,5 +1,5 @@
 _repo: The-Lock-and-Key-Library-The-Most-Interesting-Stories-of-All-Nations-Real-Life_2031
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   contributors:
   - agent_name: Woodward, P. H. (Patrick Henry)
@@ -51,8 +51,13 @@ contributor:
       gutenberg_agent_id: '675'
       url: http://www.gutenberg.org/2009/agents/675
       wikipedia: http://en.wikipedia.org/wiki/Julian_Hawthorne
+covers:
+- cover_type: generated
+  image_path: cover.png
 description: "Part 1: Detective stories from real life\r\nPart 2: True stories of\
   \ modern magic"
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2031#The-Lock-and-Key-Library-The-Most-Interesting-Stories-of-All-Nations-Real-Life
 gutenberg_bookshelf: Short Stories
 gutenberg_issued: '2000-01-01'
 gutenberg_type: Text
