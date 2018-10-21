@@ -1,5 +1,5 @@
 _repo: The-Lock-and-Key-Library-The-Most-Interesting-Stories-of-All-Nations-Real-Life_2031
-_version: 0.2.0
+_version: 0.2.1
 contributor:
   contributors:
   - agent_name: Woodward, P. H. (Patrick Henry)
@@ -72,6 +72,7 @@ subjects:
 - !lcsh 'Detective and mystery stories'
 - !lcsh 'Parapsychology'
 - !lcc 'PN'
+- GITenberg
 tableOfContents: "P. H. Woodward\r\n      Adventures in the Secret Service of the\
   \ Post-Office Department\r\n      An Erring Shepherd\r\n      An Aspirant for Congress\r\
   \n      The Fortune of Seth Savage\r\n      A Wish Unexpectedly Gratified\r\n  \
